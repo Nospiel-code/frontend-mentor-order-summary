@@ -57,7 +57,6 @@ h2{
     background-color: var(--Very-pale-blue);
     border-radius: 12px;
     margin-bottom: 1.5rem;
-    overflow: scroll;
 }
 
 .actual-plan{
