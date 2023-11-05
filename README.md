@@ -27,7 +27,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/Nospiel-code/frontend-mentor-order-summary/assets/130290610/945d7ed2-447b-474e-acfe-b516671523b1)
+![image](https://github.com/Nospiel-code/frontend-mentor-order-summary/assets/130290610/79b9055c-ee6f-42a9-a4ba-d46715634e24)
+
 
 ### Links
 
